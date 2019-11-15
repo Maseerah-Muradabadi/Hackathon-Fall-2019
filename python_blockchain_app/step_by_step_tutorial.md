@@ -478,7 +478,7 @@ def create_chain_from_dump(chain_dump):
 
 ### Building our application
 
-Alright, the backend is all set up. The code till now is available [here])(https://github.com/satwikkansal/ibm_blockchain/blob/631346a130a4effc374fc63f58a08de94bae3c8a/node_server.py). Now, it's time to start working on the interface of our application. I've used Jinja2 templating to render the web pages and some CSS to make the page look nice. You can find the entire code [here](https://github.com/satwikkansal/ibm_blockchain), but the main logic lies in the file `Views.py`.
+Alright, the backend is all set up. . Now, it's time to start working on the interface of our application. I've used Jinja2 templating to render the web pages and some CSS to make the page look nice, but the main logic lies in the file `Views.py`.
 
 Our application needs to connect to some node in the blockchain network to fetch the data and also to submit new data. There can be multiple such nodes as well.
 
@@ -545,8 +545,7 @@ def submit_textarea():
 
 ## Our application in action!
 
-Yay! It's done. You can find the final code [here](https://github.com/satwikkansal/python_blockchain_app).
-
+Yay! It's done. 
 ### Instructions to run
 
 Start a blockchain node server,

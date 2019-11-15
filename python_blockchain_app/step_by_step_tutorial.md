@@ -567,7 +567,7 @@ Here are a few screenshots
 
 1. Posting some content
 
-[![image.png](https://s18.postimg.cc/ppm7ghuo9/image.png)](https://postimg.org/image/jooijf81x/)
+[!image.png](https://github.com/Maseerah-Muradabadi/Hackathon-Fall-2019/blob/master/python_blockchain_app/screenshots/1.PNG)
 
 2. Requesting the node to mine
 
@@ -575,7 +575,7 @@ Here are a few screenshots
 
 3. Resyncing with the chain for updated data
 
-[![image.png](https://s18.postimg.cc/9rdhqdfvt/image.png)](https://postimg.org/image/ed9lyq1et/)
+[!image.png](https://github.com/Maseerah-Muradabadi/Hackathon-Fall-2019/blob/master/python_blockchain_app/screenshots/3.PNG)
 
 Phew, all done!
 
